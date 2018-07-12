@@ -1,0 +1,75 @@
+*.dll
+*.user
+*.exe
+*.suo
+CSharp_Design_Patterns/Ch09/09_02/UnitOfWork/packages/
+CSharp_Design_Patterns/Ch08/08_02/Finish/packages/
+Visual Studio 2013 for Web Dev/WebApplication3/packages/
+*.pdb
+*.dll.config
+Visual Studio 2013 for Web Dev/WindowsAzure4/WindowsAzure4/obj/
+*.exe.config
+Visual Studio 2013 for Web Dev/WindowsAzure4/WindowsAzure4/csx/Debug/
+Visual Studio 2013 for Web Dev/WindowsAzure4/WindowsAzure4/bin/
+Visual Studio 2013 for Web Dev/WindowsAzure4/packages/WindowsAzure.Storage.2.1.0.0/lib/net40/Microsoft.WindowsAzure.Storage.xml
+Visual Studio 2013 for Web Dev/WindowsAzure4/packages/
+*.min.map
+Up And Running with GitHub/
+CSharp_Design_Patterns/Ch02/02_02/FactoryMethod/obj/
+CSharp_Design_Patterns/Ch02/02_02/FactoryMethod/bin/
+CSharp_Design_Patterns/Ch03/03_02/AbstractFactory/obj/
+CSharp_Design_Patterns/Ch03/03_02/AbstractFactory/bin/
+CSharp_Design_Patterns/Ch03/03_02/CitiCreditUnion/obj/
+CSharp_Design_Patterns/Ch03/03_02/Interfaces/obj/
+CSharp_Design_Patterns/Ch03/03_02/NationalCreditUnion/obj/
+CSharp_Design_Patterns/Ch03/03_02/Providers/obj/
+CSharp_Design_Patterns/Ch03/03_03/AbstractFactory/obj/
+CSharp_Design_Patterns/Ch03/03_03/AbstractFactory/bin/
+CSharp_Design_Patterns/Ch03/03_03/CitiCreditUnion/obj/
+CSharp_Design_Patterns/Ch03/03_03/Interfaces/obj/
+CSharp_Design_Patterns/Ch03/03_03/NationalCreditUnion/obj/
+CSharp_Design_Patterns/Ch03/03_03/Providers/obj/
+CSharp_Design_Patterns/Ch03/03_04/.vs/
+CSharp_Design_Patterns/Ch03/03_04/AbstractFactory/bin/
+CSharp_Design_Patterns/Ch03/03_04/AbstractFactory/obj/
+CSharp_Design_Patterns/Ch03/03_04/CitiCreditUnion/obj/
+CSharp_Design_Patterns/Ch03/03_04/Interfaces/obj/
+CSharp_Design_Patterns/Ch03/03_04/NationalCreditUnion/obj/
+CSharp_Design_Patterns/Ch03/03_04/Providers/obj/
+CSharp_Design_Patterns/Ch04/04_02/Finish/Singleton.Tests/obj/
+CSharp_Design_Patterns/Ch04/04_02/Finish/Singleton/obj/
+CSharp_Design_Patterns/Ch04/04_02/Finish/Singleton/bin/
+CSharp_Design_Patterns/Ch04/04_02/Start/.vs/
+CSharp_Design_Patterns/Ch04/04_02/Start/Singleton.Tests/obj/
+CSharp_Design_Patterns/Ch04/04_02/Start/Singleton/obj/
+CSharp_Design_Patterns/Ch04/04_02/Start/Singleton/bin/
+CSharp_Design_Patterns/Ch04/04_03/Finish/Singleton.Tests/obj/
+CSharp_Design_Patterns/Ch04/04_03/Finish/Singleton/obj/
+CSharp_Design_Patterns/Ch04/04_03/Finish/Singleton/bin/
+CSharp_Design_Patterns/Ch04/04_03/Start/Singleton.Tests/obj/
+CSharp_Design_Patterns/Ch04/04_03/Start/Singleton/obj/
+CSharp_Design_Patterns/Ch04/04_03/Start/Singleton/bin/
+CSharp_Design_Patterns/Ch05/05_02/.vs/
+CSharp_Design_Patterns/Ch05/05_02/Decorator/obj/
+CSharp_Design_Patterns/Ch05/05_03/DesignPatterns/.vs/
+CSharp_Design_Patterns/Ch05/05_03/DesignPatterns/Decorator/bin/
+CSharp_Design_Patterns/Ch05/05_03/DesignPatterns/Decorator/obj/
+CSharp_Design_Patterns/Ch06/06_02/.vs/
+CSharp_Design_Patterns/Ch06/06_02/Iterator/bin/
+CSharp_Design_Patterns/Ch06/06_02/Iterator/obj/
+CSharp_Design_Patterns/Ch06/06_03/.vs/
+CSharp_Design_Patterns/Ch06/06_03/Iterator/bin/
+CSharp_Design_Patterns/Ch06/06_03/Iterator/obj/
+CSharp_Design_Patterns/Ch07/07_02/ObserverPattern/bin/
+CSharp_Design_Patterns/Ch07/07_02/ObserverPattern/obj/
+CSharp_Design_Patterns/Ch07/07_03/.vs/
+CSharp_Design_Patterns/Ch07/07_03/ObserverPattern/bin/
+CSharp_Design_Patterns/Ch07/07_03/ObserverPattern/obj/
+CSharp_Design_Patterns/Ch08/08_02/Finish/StudentDb/obj/
+CSharp_Design_Patterns/Ch08/08_03/packages/
+CSharp_Design_Patterns/Ch08/08_03/Repository/obj/
+CSharp_Design_Patterns/Ch08/08_04/packages/
+CSharp_Design_Patterns/Ch08/08_04/Repository/obj/
+CSharp_Design_Patterns/Ch09/09_02/packages/
+CSharp_Design_Patterns/Ch09/09_02/UnitOfWork/.vs/
+HTML Essentials/
